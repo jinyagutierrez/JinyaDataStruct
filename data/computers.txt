@@ -1,0 +1,24 @@
+ID: 1
+Name: Computer 1
+Specifications: Intel i5 16GB RAM 500GB (SSD) 
+Brand: Asus
+Units: 1
+---
+ID: 2
+Name: Computer 2
+Specifications: Ryzen 5 16GB RAM 500GB (SSD)
+Brand: HP
+Units: 2
+---
+ID: 3
+Name: Computer 3
+Specifications: Ryzen 3 16GB RAM 500GB (SSD)
+Brand: Lenovo
+Units: 5
+---
+ID: 4
+Name: Computer 4
+Specifications: Intel i3 16GB RAM 500GB (SSD)
+Brand: Hp
+Units: 5
+---

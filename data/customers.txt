@@ -1,0 +1,16 @@
+ID: 1
+Name: Jinya
+Address: Centropolis building A
+---
+ID: 2
+Name: Rach
+Address: Centropolis Communities Building B
+---
+ID: 3
+Name: Casey
+Address: Calamba
+---
+ID: 4
+Name: Jia
+Address: LasPinas
+---
