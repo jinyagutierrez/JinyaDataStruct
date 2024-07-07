@@ -1,0 +1,24 @@
+ID: 1
+CustomerID: 1
+ComputerName: Computer 10
+RentDate: 2024-07-07
+ReturnDate: Not Returned
+---
+ID: 2
+CustomerID: 1
+ComputerName: Computer 2
+RentDate: 2024-07-07
+ReturnDate: Not Returned
+---
+ID: 3
+CustomerID: 1
+ComputerName: Computer 4
+RentDate: 2024-07-07
+ReturnDate: Not Returned
+---
+ID: 4
+CustomerID: 1
+ComputerName: Computer 2
+RentDate: 2024-07-07
+ReturnDate: Not Returned
+---
